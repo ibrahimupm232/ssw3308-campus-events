@@ -1,0 +1,11 @@
+Lab 1 Notes
+
+Browser used:
+Mozilla Firefox
+
+One error I corrected:
+The validator reported an unclosed <li> element because I forgot the closing </li> tag in the event list. I added </li> and validated again with no errors.
+
+Difference between an HTML tag and an HTML element:
+A tag is the markup itself, such as <h1> (opening tag) or </h1> (closing tag).
+An element is the whole unit: the opening tag, the content and the closing tag, for example <h1>Campus Events Portal</h1>.
